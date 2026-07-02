@@ -5,7 +5,7 @@ const projects = [
     title: "MedRisk AI",
     description:
       "MedRisk AI is a full-stack, AI-powered preventive healthcare platform built to analyze, understand, and act on complex blood test reports.",
-    image: "public/Screenshot 2026-07-02 at 5.51.26 PM.png",
+    image: "https://drive.google.com/file/d/1wi13Z7FrCR0KhMZHXQYkHTbV4d2Oc8cW/view?usp=drive_link",
     tags: ["React", "Typescript", "python"],
     github: "https://github.com/lalit1-tech/MedRisk-AI.git",
   },
