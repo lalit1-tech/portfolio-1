@@ -28,7 +28,7 @@ export const Hero = () => {
       {/* Bg */}
       <div className="absolute inset-0">
         <img
-          src="public/wallpaperflare.com_wallpaper.jpg"
+          src="https://drive.google.com/file/d/1D5SFhTpUliHTexK1reI_-VpYZjslXYU9/view?usp=drive_link"
           alt="Hero image"
           className="w-full h-full object-cover opacity-40"
         />
