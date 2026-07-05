@@ -28,7 +28,7 @@ export const Hero = () => {
       {/* Bg */}
       <div className="absolute inset-0">
         <img
-          src="https://drive.google.com/file/d/1D5SFhTpUliHTexK1reI_-VpYZjslXYU9/view?usp=drive_link"
+          src="https://t4.ftcdn.net/jpg/06/66/42/91/360_F_666429184_jaSMxoY6mYnaYPe7g2K38Q65OVCghqag.webp"
           alt="Hero image"
           className="w-full h-full object-cover opacity-40"
         />
