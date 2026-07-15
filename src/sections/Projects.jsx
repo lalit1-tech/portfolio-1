@@ -9,6 +9,14 @@ const projects = [
     tags: ["React", "Typescript", "python"],
     github: "https://github.com/lalit1-tech/MedRisk-AI.git",
   },
+  {
+    title: "Dinemaster",
+    description:
+      "Developed a full-stack restaurant management web application using MongoDB, Express.js, React.js, and Node.js.",
+    image: "https://drive.proton.me/urls/1ZXA94V284#QLr17lR8w33b",
+    tags: ["React", "Typescript","node.js"],
+    github: "https://github.com/lalit1-tech/dinemaster",
+  },
 ];
 
 export const Projects = () => {
